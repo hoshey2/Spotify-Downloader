@@ -8,7 +8,7 @@ This script uses the Musicfetch API to download the YouTube music link of a Spot
 Linux/Windows
 
 ## Prerequisites:
-1.	A [Musicfetch](https://musicfetch.io) subscription. They have a 7-day free trial that you can use a virtual credit card with so you don’t get charged
+1.	A [Musicfetch](https://musicfetch.io) subscription. They have a 7-day free trial.
 2.	yt-dlp  – install instructions [here](https://github.com/yt-dlp/yt-dlp/wiki/Installation)
 3.	ffmpeg – binaries located [here](https://www.ffmpeg.org/download.html#build-windows)
 

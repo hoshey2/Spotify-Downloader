@@ -1,7 +1,4 @@
-import time
-import requests
-import json
-import re
+import time, requests, json, re
 from tqdm import tqdm
 
 # === Configuration ===
@@ -60,3 +57,4 @@ with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write(yt_link + "\n")
 
 print(f"\nYouTube Music links saved to {OUTPUT_FILE}")
+

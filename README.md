@@ -13,7 +13,14 @@ Linux/Windows
 3.	ffmpeg – binaries located [here](https://www.ffmpeg.org/download.html#build-windows)
 
 ## Usage
-1.	Drag and drop your Spotify playlist into a text document
-2.	Run the spotifyDownloader.py script on your playlist document, this will generate a YouTube music link list
-3.	Run yt-dlp.exe on your YouTube link list ```yt-dlp.exe -a "PATH_TO_YOUTUBE_LINK_LIST" -x --audio-format mp3 -P "PATH_TO_SAVE_SONGS"```
-4.	Enjoy your music!
+1. Drag and drop your Spotify playlist into a text document
+
+
+https://github.com/user-attachments/assets/b96a42e9-fca0-446c-a68b-49fe465f6455
+
+
+2. Run the spotifyDownloader.py script on your playlist document, this will generate a YouTube music link list
+3. Run yt-dlp.exe on your YouTube link list ```yt-dlp.exe -a "PATH_TO_YOUTUBE_LINK_LIST" -x --audio-format mp3 -P "PATH_TO_SAVE_SONGS"```
+4. Enjoy your music!
+
+

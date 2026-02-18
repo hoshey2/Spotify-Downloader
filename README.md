@@ -12,7 +12,7 @@ Linux/Windows
 2.	yt-dlp  – install instructions [here](https://github.com/yt-dlp/yt-dlp/wiki/Installation)
 3.	ffmpeg – binaries located [here](https://www.ffmpeg.org/download.html#build-windows)
 
-## Usage
+## Usage:
 1. Drag and drop your Spotify playlist into a text document
 
 

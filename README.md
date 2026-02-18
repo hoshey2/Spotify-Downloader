@@ -19,8 +19,8 @@ Linux/Windows
 https://github.com/user-attachments/assets/b96a42e9-fca0-446c-a68b-49fe465f6455
 
 
-2. Run the spotifyDownloader.py script on your playlist document, this will generate a YouTube music link list
-3. Run yt-dlp.exe on your YouTube link list ```yt-dlp.exe -a "PATH_TO_YOUTUBE_LINK_LIST" -x --audio-format mp3 -P "PATH_TO_SAVE_SONGS"```
+2. Run the spotifyDownloader.py script on your Spotify link list, this will generate a YouTube music link list
+3. Run yt-dlp.exe on your YouTube music link list ```yt-dlp.exe -a "PATH_TO_YOUTUBE_LINK_LIST" -x --audio-format mp3 -P "PATH_TO_SAVE_SONGS"```
 4. Enjoy your music!
 
 
